@@ -1,29 +1,20 @@
 ## Arsh_DEV
 
-You can use the [editor on GitHub](https://github.com/arsh-py-js/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### AI Code Sample (Full Code in Github)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+def main():
+    os.system("CLS")
+    webbrowser.Chrome(open("Suzie.png"))
+    os.system("CLS")
+    time.sleep(5)
+    subprocess.call("TASKKILL /f  /IM  Microsoft.Photos.EXE")
+    headn = head.center(20)
+    print(headn)
+    print()
+    time.sleep(1)
+    print("Options - \n[1] = Security\n[2] = Entertainment\n[3] = Education\n[4] = Exit")
+    print()
 ```
 
 ### Intro
